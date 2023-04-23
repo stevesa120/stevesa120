@@ -1,10 +1,1 @@
-### Hi there 👋
-- 🔭 I’m currently working on expanding my career in data science and analysis, as well as building an app.
-- 🌱 I’m currently learning how to use Github and Python.
-- 👯 I’m looking to collaborate on anything to improve my skills in any of the above areas!
-- 🤔 I’m looking for help with ideas, inspiration, and advice.
-- 💬 Ask me about data visualization and statistical analysis.
-- 📫 How to reach me: samstevens1289@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: MS > MT > NYC
-
+Hello there! 👋 I'm Sam, a highly motivated data scientist with a strong aptitude for data analysis and a commitment to team success through diligent work, meticulous attention to detail, and exceptional organizational skills. I am currently working towards expanding my knowledge in Python and other cutting-edge technologies through various online bootcamps, and I am eager to leverage my expertise to drive innovation and contribute to organizational growth. My passion for data analysis and visualization, combined with my experience in accounting data analytics and technologies, positions me to be a valuable asset to any team. When I'm not diving deep into data, you can find me exploring the outdoors, watching my team, Newcastle United, or trying out the local beer scene. Let's connect and see how we can work together to make a positive impact! 🚀
