@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about data visualization and statistical analysis.
 - 📫 How to reach me: samstevens1289@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: MS --> MT --> NYC
+- ⚡ Fun fact: MS --> MS > MT > NYC
+-->
